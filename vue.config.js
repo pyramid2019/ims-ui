@@ -7,7 +7,7 @@ module.exports = {
         vueRouterMode: 'history', // available values: 'hash', 'history'
     },
     devServer: {
-        port: 7777, // 端口号
+        port: 6666, // 端口号
         host: 'localhost',
         https: false, // https:{type:Boolean}
         open: true, //配置自动启动浏览器
